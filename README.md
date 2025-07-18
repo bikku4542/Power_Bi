@@ -73,5 +73,14 @@ The dataset used is the **SuperStore Sales** dataset, widely used for BI and ana
 
 
 ## 📁 Repository Contents
+📊 SuperStore_Sales_Dashboard.pbix     → Main Power BI dashboard file
+📂 Datasets/                           → Contains the SuperStore dataset (CSV or Excel format)
+  └── SuperStore_Data.csv             → Source data used for analysis
+📸 Screenshots/                        → Folder containing dashboard screenshots
+  └── dashboard_overview.png          → Overview page of the dashboard
+  └── regional_performance.png        → Regional analysis visualization
+  └── category_analysis.png           → Category-wise insights
+📄 README.md                           → Project description and documentation
+
 
 
