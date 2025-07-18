@@ -68,6 +68,8 @@ The dataset used is the **SuperStore Sales** dataset, widely used for BI and ana
 
 ## 📷 Screenshots
 <img width="1209" height="673" alt="pbi" src="https://github.com/user-attachments/assets/8257c710-7de6-43a8-a7fb-f78e86010d90" />
+<img width="1645" height="917" alt="Screenshot 2025-07-18 041043" src="https://github.com/user-attachments/assets/d79f6755-b232-4170-b183-522eb4dc7d73" />
+
 
 
 ## 📁 Repository Contents
